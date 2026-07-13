@@ -65,6 +65,19 @@ Prometheus • Grafana
 
 ---
 
+### 🔍 Security & Quality
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45"/>
+</p>
+
+<p>
+  SonarQube • Nexus Repository • Trivy
+</p>
+
+---
+
 <div align="center">
 
 ### ⭐ Check out my pinned repositories below.
