@@ -233,10 +233,6 @@ https://github.com/nasiroddin-khatib
 
 https://www.linkedin.com/in/nasiroddin-khatib-269841278/
 
-### Resume
-
-<YOUR_RESUME_LINK>
-
 ---
 
 <div align="center">
