@@ -101,44 +101,13 @@ Building scalable cloud infrastructure, automating deployments, and implementing
 
 Check out my pinned repositories below 👇
 
+---
 
 # 🛠 Tools & Technologies
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git,github,java,bash,postgresql,maven"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasiroddin-khatib&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasiroddin-khatib&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nasiroddin-khatib&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasiroddin-khatib&theme=tokyo-night"/>
 
 </p>
 
