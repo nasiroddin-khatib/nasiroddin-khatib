@@ -2,140 +2,83 @@
 
 # 👋 Hi, I'm Nasiroddin Khatib
 
-### ☁️ AWS & DevOps Engineer | Kubernetes | Docker | Terraform | CI/CD
+### AWS & DevOps Engineer
 
 Building scalable cloud infrastructure, automating deployments, and implementing production-ready DevOps solutions.
 
-<p>
-<a href="https://github.com/nasiroddin-khatib">
-<img src="https://img.shields.io/github/followers/nasiroddin-khatib?label=Followers&style=for-the-badge">
-</a>
-
-<a href="https://github.com/nasiroddin-khatib">
-<img src="https://img.shields.io/github/stars/nasiroddin-khatib?affiliations=OWNER&style=for-the-badge">
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=nasiroddin-khatib">
-<img src="https://komarev.com/ghpvc/?username=nasiroddin-khatib&style=for-the-badge">
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nasiroddin-khatib-269841278)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/nasiroddin-khatib)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 BCA Graduate (2025)
-
-☁️ Passionate about AWS Cloud & DevOps
-
-🐳 Experienced in Docker & Kubernetes
-
-⚙️ Building Production-Ready CI/CD Pipelines
-
-📦 Automating Infrastructure using Terraform & Ansible
-
-🛠️ Linux System Administration Enthusiast
-
-📚 Currently learning advanced Kubernetes, Terraform and AWS Architecture
+- 🎓 BCA Graduate (2025)
+- ☁️ AWS & DevOps Engineer
+- 🚀 Passionate about Cloud Infrastructure, Automation & CI/CD
+- 🐳 Building cloud-native applications using Docker & Kubernetes
+- ⚙️ Hands-on experience with AWS, DevOps and Production-Style Deployments
+- 🌱 Continuously learning and building production-ready AWS & DevOps solutions.
 
 ---
 
-# ☁️ Cloud & DevOps Skills
+# 🛠️ Tech Stack
 
-## Cloud
+### ☁️ Cloud
 
-- AWS EC2
-- VPC
-- IAM
-- S3
-- RDS
-- CloudFront
-- Route53
-- Auto Scaling
-- Load Balancer
-- CloudWatch
-- Lambda
-- ECS
-- EKS
-- CodeBuild
-- CodeDeploy
-- CodePipeline
-
----
-
-## DevOps
-
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- Ansible
-- Git
-- GitHub
-- Maven
-- Nexus
-- SonarQube
-- NGINX
-- Tomcat
-
----
-
-## Monitoring
-
-- Prometheus
-- Grafana
-
----
-
-## Security
-
-- Trivy
-- SonarQube
-
----
-
-## 🚀 Featured Projects
-
-Check out my pinned repositories below 👇
-
----
-
-# 🛠 Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git,github,java,bash,postgresql,maven"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
+**AWS Services:**  
+EC2 • VPC • IAM • S3 • RDS • CloudWatch • Lambda • CloudFront • Auto Scaling • Elastic Load Balancer • ECS • EKS • CodeBuild • CodeDeploy • CodePipeline
+
 ---
 
-# 📌 Certifications & Training
+### ⚙️ DevOps
 
-- AWS & DevOps Training – Naresh i Technologies
-- Hands-on experience with AWS & DevOps Projects
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github,maven,nginx" />
+</p>
+
+**Tools:**  
+Docker • Kubernetes • Jenkins • Terraform • Ansible • Git • GitHub • Maven • Nexus Repository • SonarQube • Trivy • NGINX • Apache Tomcat
+
+---
+
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+PostgreSQL • MySQL
+
+---
+
+### 📊 Monitoring
+
+Prometheus • Grafana
 
 ---
 
 # 📫 Connect With Me
 
-### GitHub
+💼 **LinkedIn**  
+https://www.linkedin.com/in/nasiroddin-khatib-269841278/
 
+🐙 **GitHub**  
 https://github.com/nasiroddin-khatib
 
-### LinkedIn
-
-https://www.linkedin.com/in/nasiroddin-khatib-269841278/
+📄 **Resume**  
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
-
-### Building • Learning • Automating ☁️🚀
+### ⭐ Check out my pinned repositories below.
 
 </div>
