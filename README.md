@@ -83,19 +83,6 @@ Building scalable cloud infrastructure, automating deployments, and implementing
 
 ---
 
-## Programming
-
-- Java
-- Bash
-
----
-
-## Database
-
-- PostgreSQL
-
----
-
 ## Monitoring
 
 - Prometheus
@@ -110,69 +97,10 @@ Building scalable cloud infrastructure, automating deployments, and implementing
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚀 Jenkins End-to-End CI/CD Pipeline
+Check out my pinned repositories below 👇
 
-Production-ready CI/CD pipeline built using:
-
-- Jenkins
-- GitHub
-- Maven
-- SonarQube
-- Nexus
-- Ansible
-- Tomcat
-- Spring Boot
-
-🔗 Repository
-
-https://github.com/nasiroddin-khatib/Jenkins-CI-CD-Pipeline
-
----
-
-## ☸ Kubernetes Zero Downtime Deployment
-
-Production-style Kubernetes deployment implementing:
-
-- Rolling Updates
-- Rollback Strategy
-- ClusterIP Service
-- NGINX Ingress
-- Readiness Probe
-- Liveness Probe
-- High Availability
-
-🔗 Repository
-
-https://github.com/nasiroddin-khatib/kubernetes-zero-downtime-deployment
-
----
-
-## 🐳 Dockerized Full Stack Task Manager
-
-Containerized full-stack application using:
-
-- Docker
-- Spring Boot
-- PostgreSQL
-- NGINX Reverse Proxy
-
-🔗 Repository
-
-https://github.com/nasiroddin-khatib/Dockerized-Full-Stack-Task-Manager-with-Nginx-Reverse-Proxy
-
----
-
-## ☁️ AWS ECS CI/CD Deployment
-
-Container deployment on AWS ECS using CI/CD pipeline.
-
-🔗 Repository
-
-https://github.com/nasiroddin-khatib/cicd-ecs
-
----
 
 # 🛠 Tools & Technologies
 
