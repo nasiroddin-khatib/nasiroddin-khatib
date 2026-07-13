@@ -65,18 +65,6 @@ Prometheus • Grafana
 
 ---
 
-# 📫 Connect With Me
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/nasiroddin-khatib-269841278/
-
-🐙 **GitHub**  
-https://github.com/nasiroddin-khatib
-
-📄 **Resume**  
-
----
-
 <div align="center">
 
 ### ⭐ Check out my pinned repositories below.
